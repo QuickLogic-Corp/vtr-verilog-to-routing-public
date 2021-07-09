@@ -33,13 +33,10 @@ circuit_list_add=LU32PEEng.v
 circuit_list_add=mcml.v
 
 # Add architectures to list to sweep
-#arch_list_add=K4N8_I24_FC_Mem_DSP_UMC22nm_vpr.xml
-arch_list_add=K4N8_I20_FC_Mem_DSP_UMC22nm_vpr.xml
-arch_list_add=K4N8_I16_FC_Mem_DSP_UMC22nm_vpr.xml
-arch_list_add=K4N8_I24_HC_Mem_DSP_UMC22nm_vpr.xml
-arch_list_add=K4N8_I20_HC_Mem_DSP_UMC22nm_vpr.xml
-arch_list_add=K4N8_I16_HC_Mem_DSP_UMC22nm_vpr.xml
+# For K4N8
+arch_list_add=K4N8_I24_FC_Mem_DSP_UMC22nm_vpr.xml
 
+# For K6N10
 #arch_list_add=K6N10_I40_HC_Mem_DSP_GF12nm_vpr.xml
 
 # Parse info and how to parse
